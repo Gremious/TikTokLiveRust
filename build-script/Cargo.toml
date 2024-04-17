@@ -29,5 +29,5 @@ proc-macro2 = "1.0.75"
 syn = "2.0.47"
 
 [build-dependencies]
-protobuf-codegen = "3.3.0"
+protobuf-codegen = "=3.3.0"
 protoc-bin-vendored = "3.0.0"
